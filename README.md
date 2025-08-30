@@ -1,6 +1,8 @@
 # PROJETO_APLICADO_IV-GRUPOII
 MACKENZIE - CIENCIA DE DADOS - PROJETO APLICADO IV - GRUPO 2
 
+TÍTULO DO PROJETO: Análise da Evolução das Exportações Brasileiras (2014-2024)
+
 ALUNOS:
 
 1 - Amanda Schwantes Maia | RA: 10408451
